@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "765096530671",
+    "firebase_url": "https://aso-mohara.firebaseio.com",
+    "project_id": "aso-mohara",
+    "storage_bucket": "aso-mohara.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765096530671:android:4b9e7ed2b65fffb5",
+        "android_client_info": {
+          "package_name": "br.com.a34aso.a34aso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765096530671-juog2kpdadt4cepqps8ggdue8h7b3al4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.a34aso.a34aso",
+            "certificate_hash": "beb224284730e1ec2ea6857c4e52af0c0438cd6c"
+          }
+        },
+        {
+          "client_id": "765096530671-7lndf00ur91pnfv65l80nps7dvgd60se.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR8igllZyTpwkqlSrI6E2iQ2uOxVDXmbw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765096530671-7lndf00ur91pnfv65l80nps7dvgd60se.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
